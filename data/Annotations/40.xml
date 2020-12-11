@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>samples</folder>
+<filename>40.jpg</filename>
+<path>D:\yolov3\yolov3\data\samples\40.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1446</width>
+    <height>1080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>basketball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>379</xmin>
+        <ymin>354</ymin>
+        <xmax>555</xmax>
+        <ymax>526</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>volleyball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>729</xmin>
+        <ymin>398</ymin>
+        <xmax>875</xmax>
+        <ymax>542</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>513</xmin>
+        <ymin>554</ymin>
+        <xmax>601</xmax>
+        <ymax>634</ymax>
+    </bndbox>
+</object>
+</annotation>

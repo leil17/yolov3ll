@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>footballimage</folder>
+<filename>IMG_0291.JPG</filename>
+<path>D:\yolo-1\footballimage\IMG_0291.JPG</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2193</xmin>
+        <ymin>1074</ymin>
+        <xmax>2977</xmax>
+        <ymax>1883</ymax>
+    </bndbox>
+</object>
+</annotation>

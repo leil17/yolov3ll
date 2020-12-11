@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/tione/notebook/yolov3/data/train.txt
+valid  = /home/tione/notebook/yolov3/data/test.txt
+names = data/ball.names
+backup = backup/
+eval = coco

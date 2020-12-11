@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>samples</folder>
+<filename>11.jpg</filename>
+<path>D:\yolov3\yolov3\data\samples\11.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1445</width>
+    <height>1080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1003</xmin>
+        <ymin>272</ymin>
+        <xmax>1111</xmax>
+        <ymax>376</ymax>
+    </bndbox>
+</object>
+</annotation>

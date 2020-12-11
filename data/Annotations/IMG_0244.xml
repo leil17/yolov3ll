@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>balls_photos2_jpg</folder>
+<filename>IMG_0244.jpg</filename>
+<path>D:\大四上\无人机\balls_photos2_jpg\balls_photos2_jpg\IMG_0244.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1397</xmin>
+        <ymin>398</ymin>
+        <xmax>2941</xmax>
+        <ymax>1931</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>balls_photos_jpg</folder>
+<filename>IMG_0198.jpg</filename>
+<path>D:\大四上\无人机\balls_photos_jpg\balls_photos_jpg\IMG_0198.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>4032</width>
+    <height>3024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>basketball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1516</xmin>
+        <ymin>254</ymin>
+        <xmax>2528</xmax>
+        <ymax>1290</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1420</xmin>
+        <ymin>1505</ymin>
+        <xmax>2289</xmax>
+        <ymax>2434</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>volleyball</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>2570</xmin>
+        <ymin>1308</ymin>
+        <xmax>3480</xmax>
+        <ymax>2170</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>trainset</folder>
+<filename>51.jpg</filename>
+<path>D:\大四上\无人机\trainset\51.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2592</width>
+    <height>1936</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>football</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>817</xmin>
+        <ymin>822</ymin>
+        <xmax>1436</xmax>
+        <ymax>1444</ymax>
+    </bndbox>
+</object>
+</annotation>
